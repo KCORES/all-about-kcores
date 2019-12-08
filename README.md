@@ -1,7 +1,7 @@
 README.md
 ---------
 
-- version: 191206
+- version: 191208
 
 
 ![avatar](./src/assets/images/flag.jpg)
@@ -16,6 +16,7 @@ KCORES, 氪金核心. 该项目由 karminski-牙医 发起, 目的是建立一�
 目前已经实装的有:  
 
 - Electronic Scavenger Q 群: 
+    - 554935739
     - 632612050
     - 328460792
     - 826702309
@@ -45,6 +46,7 @@ KCORES, 氪金核心. 该项目由 karminski-牙医 发起, 目的是建立一�
 
 可以 star 这个git repo. 如果炸群, 新群号将在这里更新. 点 star 不迷路.  
 
+- Electronic Scavenger - ⓪: 554935739
 - Electronic Scavenger - ①: 632612050
 - Electronic Scavenger - ②: 328460792
 - Electronic Scavenger - 3: 826702309
