@@ -1,7 +1,7 @@
 README.md
 ---------
 
-- version: 191208
+- version: 20201024:2
 
 
 ![avatar](./src/assets/images/flag.jpg)
@@ -29,7 +29,7 @@ KCORES, 氪金核心. 该项目由 karminski-牙医 发起, 目的是建立一�
 
 计划中的有:  
 
-- KCORE主站论坛 (还在画大饼)
+- KCORE主站&论坛 (主站已经弄好了:[kcores.com](http://kcores.com), 论坛还在画大饼)
 - 硬件WIKI (还在画大饼)
 
 
@@ -40,7 +40,7 @@ KCORES, 氪金核心. 该项目由 karminski-牙医 发起, 目的是建立一�
 
 ### 成立Q群的目的
 
-由于懒癌发作, 故 KCORES 主站迟迟不能上线, 但唠嗑不能停, 故成立了Q群. 
+由于懒癌发作, 故 KCORES 主站 <del>迟迟不能上线</del> 已经上线, 但唠嗑不能停, 故成立了Q群. 
 
 欢迎喜欢讨论泛计算机话题的老铁加群, 群里话题广泛, 包括但不限于捡垃圾, 超大容量NAS, 万兆网络, 服务器, 编程, 二次元等.  
 
@@ -51,6 +51,10 @@ KCORES, 氪金核心. 该项目由 karminski-牙医 发起, 目的是建立一�
 - Electronic Scavenger - ②: 328460792
 - Electronic Scavenger - 3: 826702309
 
+### 群内交易规则和备案
+
+- [群内交易规则](./DOCUMENTS/群内交易规则.md)  
+- [贩卖者备案](./DOCUMENTS/贩卖者备案.md)
 
 
 ### Q群捐赠及专项基金使用记录
