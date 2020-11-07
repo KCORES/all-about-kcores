@@ -21,11 +21,14 @@ KCORES, 氪金核心. 该项目由 karminski-牙医 发起, 目的是建立一�
     - 328460792
     - 826702309
 - 知乎专栏
-    - https://zhuanlan.zhihu.com/kcores 
+    - [karminski-牙医](https://zhuanlan.zhihu.com/kcores) 
+    - [awpak78](https://www.zhihu.com/people/awpak78/posts) 
 - B站视频: 
     - [karminski-牙医](https://space.bilibili.com/450407615) 
     - [awpak78](https://space.bilibili.com/1292029)       
-
+- 微博
+    - [karminski-牙医](https://weibo.com/linfcstmr) 
+    - [awpak78](https://weibo.com/u/7508856642)       
 
 计划中的有:  
 
