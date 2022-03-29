@@ -1,9 +1,9 @@
 README.md
 ---------
 
-- version: 20210109:3
+- version: 20220330:4
 
-![license-kcores](./src/assets/images/license-kcores.png)
+![license-kcores](./src/assets/images/kcores-logo.svg)
 
 # KCORES 是什么?
 
@@ -47,6 +47,8 @@ KCORES 社区, 氪金核心社区. 该项目由 karminski-牙医 发起, 目的�
     - 632612050
     - 328460792
     - 826702309
+    - 699387899
+    - 655944532
 - 知乎专栏
     - [karminski-牙医](https://zhuanlan.zhihu.com/kcores) 
     - [AlphaArea(awpak78)](https://www.zhihu.com/people/awpak78/posts) 
@@ -78,7 +80,10 @@ KCORES 社区, 氪金核心社区. 该项目由 karminski-牙医 发起, 目的�
 - Electronic Scavenger - ⓪: 554935739
 - Electronic Scavenger - ①: 632612050
 - Electronic Scavenger - ②: 328460792
-- Electronic Scavenger - 3: 826702309
+- Electronic Scavenger - 3: 826702309 (Bilibili群)
+- Electronic Scavenger - 4: 699387899 (微博群)
+- Electronic Scavenger - V: 655944532 (Bilibili群)
+
 
 ### 群内交易规则和备案
 
